@@ -9,7 +9,7 @@ Welcome! This is the official implementation of the paper "[One Step Diffusion-b
 
 
   
-![Alt text](assets/framework.jpg)
+![Alt text](TAD-SR/assets/framework.jpg)
 Figure 4: **Method overview**. We train student model to map noisy latent to clean latent through
 one step sampling. To match the student model’s output with the multi-step sampling outputs of the
 teacher model, we optimize the student model using both regression loss and our proposed hsd loss.
