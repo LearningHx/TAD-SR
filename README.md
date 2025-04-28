@@ -32,6 +32,7 @@ conda activate TAD-SR
 ```
 
 ## 🚀 Fast Testing
+### Download the pre-trained model [(Link)](https://drive.google.com/drive/folders/1fUXwJFYcBt2eljDNTjKYCrceXa5UKkOT?usp=drive_link)
 #### :tiger: Real-world image super-resolution
 ```sh
 python3 inference.py -i [image folder/image path] -o [result folder] --ckpt weights/TAD-SR.pth --scale 4 --one_step --task realsrx4
