@@ -15,9 +15,9 @@ pip install -r requirements.txt
 ## 🚀 Fast Testing
 #### Step 1: Download the pretrained models
 - Download the pretrained SD-2-base models from [HuggingFace](https://huggingface.co/stabilityai/stable-diffusion-2-base).
-- Download the TAD-SR models from [GoogleDrive](https://drive.google.com//drive/folders/13VcWNQjRcLK94ijYkxrED-k0_32ec3B0?hl=zh-TW)
+- Download the TAD-SeeSR models from [GoogleDrive](https://drive.google.com/drive/folders/1fUXwJFYcBt2eljDNTjKYCrceXa5UKkOT?usp=drive_link)
 - Download the DAPE models from [GoogleDrive](https://drive.google.com/drive/folders/12HXrRGEXUAnmHRaf0bIn-S8XSK4Ku0JO?usp=drive_link)
-
+- 
 You can put the models into `preset/`.
 
 #### Step 2: Prepare testing data
